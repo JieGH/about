@@ -12,3 +12,4 @@ Jie.Lei.contact@gmail.com
 
 - [Learning Automata based Energy-efficient AI Hardware Design for IoT Applications](https://eprint.ncl.ac.uk/268038)
 
+- [A Novel Multi-Step Finite-State Automaton for Arbitrarily Deterministic Tsetlin Machine Learning](https://arxiv.org/abs/2007.02114)
