@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 
 ### Jie Lei
 
