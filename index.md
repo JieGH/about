@@ -9,5 +9,6 @@ Jie.Lei.contact@gmail.com
 
 ---
 #### Publications
-https://eprint.ncl.ac.uk/268038
+
+- [Learning Automata based Energy-efficient AI Hardware Design for IoT Applications](https://eprint.ncl.ac.uk/268038)
 
