@@ -12,6 +12,8 @@ Jie.Lei.contact@gmail.com
 ---
 #### Publications
 
+- [From Arithmetic to Logic Based AI: a Comparative Analysis of Neural Networks and Tsetlin Machine](https://2020.ieee-icecs.org/)
+
 - [Learning Automata based Energy-efficient AI Hardware Design for IoT Applications](https://eprint.ncl.ac.uk/268038)
 
 - [A Novel Multi-Step Finite-State Automaton for Arbitrarily Deterministic Tsetlin Machine Learning](https://arxiv.org/abs/2007.02114)
@@ -19,11 +21,14 @@ Jie.Lei.contact@gmail.com
 ---
 #### Videos
 
+- [ARM2020 Research Summit](https://youtu.be/N-wkgibJAZE)
+
 - [Hardware_Tsetlin Machine_Demo on Iris Dataset](https://youtu.be/BzaPGByX-hg)
 
 - [Explaining 6 states Tsetlin Automaton](https://youtu.be/XzWSPo7GF94)
 
-- [ARM2020 Research Summit](https://youtu.be/N-wkgibJAZE)
+- [Tsetlin Machine Quick Guide: Clause Calculation](https://youtu.be/Yfrt-W40LiI)
+
 
 ---
 #### Embedded System Designs
