@@ -14,7 +14,7 @@ Jie.Lei.contact@gmail.com
 
 - [From Arithmetic to Logic Based AI: a Comparative Analysis of Neural Networks and Tsetlin Machine](https://2020.ieee-icecs.org/)
 
-- [Learning Automata based Energy-efficient AI Hardware Design for IoT Applications](https://eprint.ncl.ac.uk/268038)
+- [Learning Automata based Energy-efficient AI Hardware Design for IoT Applications](https://doi.org/10.1098/rsta.2019.0593)
 
 - [A Novel Multi-Step Finite-State Automaton for Arbitrarily Deterministic Tsetlin Machine Learning](https://arxiv.org/abs/2007.02114)
 
