@@ -12,14 +12,18 @@ Jie.Lei.contact@gmail.com
 ---
 #### Publications
 
-- [From Arithmetic to Logic Based AI: a Comparative Analysis of Neural Networks and Tsetlin Machine](https://2020.ieee-icecs.org/)
+- [<span style="color:Crimson"> **Best Poster Award** </span>:  Comparing Artificial Neural network with Tsetlin Machine](https://github.com/JieGH/about/blob/gh-pages/ICECS2020/-%20Poster%20-.pdf)
 
-- [Learning Automata based Energy-efficient AI Hardware Design for IoT Applications](https://doi.org/10.1098/rsta.2019.0593)
+- [Paper: From Arithmetic to Logic Based AI: a Comparative Analysis of Neural Networks and Tsetlin Machine](https://github.com/JieGH/about/blob/gh-pages/ICECS2020/ICECS2020_ID_8231_From_Arithmetic_to_Logic_Based_AI.pdf)
 
-- [A Novel Multi-Step Finite-State Automaton for Arbitrarily Deterministic Tsetlin Machine Learning](https://arxiv.org/abs/2007.02114)
+- [Paper: Learning Automata based Energy-efficient AI Hardware Design for IoT Applications](https://doi.org/10.1098/rsta.2019.0593)
+
+- [Paper: A Novel Multi-Step Finite-State Automaton for Arbitrarily Deterministic Tsetlin Machine Learning](https://arxiv.org/abs/2007.02114)
 
 ---
 #### Videos
+
+- [ICECS 2020 Poster Video: Comparing Neural networks with the Tsetlin Machin](https://youtu.be/9kjk-lMhSrM)
 
 - [ARM2020 Research Summit](https://youtu.be/N-wkgibJAZE)
 
