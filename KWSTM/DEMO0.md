@@ -9,6 +9,9 @@ Jie.Lei.contact@gmail.com
 
 ### This is a placeholder. Demo Video comming soon.
 
+[Video](https://www.google.com)
+
+[Full-text](https://www.google.com)
+
 <!-- [Twitter](https://twitter.com/That_JieLei) -->
 
-<!-- [Demo](https://www.google.com) -->
