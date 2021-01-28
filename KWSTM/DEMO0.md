@@ -13,8 +13,8 @@ Lei,J.;Rahman,T.;Shafik, R.; Wheeldon, A; Yakovlev, A.; Granmo, Ole.; Kawsarand;
 ## Demo Video: Keyword Spotting demo using the Tsetlin Machine
 
 
-## [Video](https://youtu.be/JW0tztpjX8k)
+## [📽 Demo Video](https://youtu.be/JW0tztpjX8k)
 
-## [Full-text at arxiv](https://arxiv.org/abs/2101.11336)
+## [📜 Full-text at arxiv](https://arxiv.org/abs/2101.11336)
 
 
