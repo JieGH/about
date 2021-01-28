@@ -1,6 +1,4 @@
-### Jie Lei  Jie.Lei@newcastle.ac.uk   Jie.Lei.contact@gmail.com
-
-### [Twitter](https://twitter.com/That_JieLei)
+### Jie Lei | Jie.Lei@newcastle.ac.uk |  Jie.Lei.contact@gmail.com. | [Twitter](https://twitter.com/That_JieLei)
 
 # Low-Power Audio Keyword Spotting using Tsetlin Machines
 
