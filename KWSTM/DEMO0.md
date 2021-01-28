@@ -2,8 +2,7 @@
 
 # Low-Power Audio Keyword Spotting using Tsetlin Machines
 
-Lei,J.;Rahman,T.;Shafik, R.; Wheeldon, A; Yakovlev, A.; Granmo, Ole.; Kawsarand; F., Mathur,A Low-Power Audio Keyword Spotting using Tsetlin Machines. J. Low Power Electron. Appl. 2021, 1, 0. https://doi.org/
-
+Jie Lei, Tousif Rahman, Rishad Shafik, Adrian Wheeldon, Alex Yakovlev, Ole-Christoffer Granmo, Fahim Kawsar, Akhil Mathur
 
 ## [📽 Demo Video](https://youtu.be/JW0tztpjX8k)
 
