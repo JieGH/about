@@ -1,8 +1,4 @@
-### Jie Lei
-
-### Jie.Lei@newcastle.ac.uk
-
-### Jie.Lei.contact@gmail.com
+### Jie Lei  Jie.Lei@newcastle.ac.uk   Jie.Lei.contact@gmail.com
 
 ### [Twitter](https://twitter.com/That_JieLei)
 
