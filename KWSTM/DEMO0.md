@@ -1,8 +1,10 @@
 ### Jie Lei
 
-Jie.Lei@newcastle.ac.uk
+### Jie.Lei@newcastle.ac.uk
 
-Jie.Lei.contact@gmail.com
+### Jie.Lei.contact@gmail.com
+
+### [Twitter](https://twitter.com/That_JieLei)
 
 # Low-Power Audio Keyword Spotting using Tsetlin Machines
 
@@ -10,11 +12,9 @@ Lei,J.;Rahman,T.;Shafik, R.; Wheeldon, A; Yakovlev, A.; Granmo, Ole.; Kawsarand;
 
 ## Demo Video: Keyword Spotting demo using the Tsetlin Machine
 
-### This is a placeholder. Demo Video comming soon.
 
-[Video](https://www.google.com)
+## [Video](https://youtu.be/JW0tztpjX8k)
 
-[Full-text](https://www.google.com)
+## [Full-text at arxiv](https://arxiv.org/abs/2101.11336)
 
-<!-- [Twitter](https://twitter.com/That_JieLei) -->
 
