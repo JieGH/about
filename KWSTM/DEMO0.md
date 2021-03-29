@@ -12,7 +12,7 @@
 # [📜 Full-text at arxiv](https://arxiv.org/abs/2101.11336)
 
 # [📜 Up-to-date Version ](https://github.com/JieGH/about/blob/gh-pages/KWSTM/round_1_arxiv_Article__Low_Power_Audio_Keyword_Spotting_using_Tsetlin_Machines.pdf)
-## New section: 4.7 KWS-TM on the Embedded System
+### New section: 4.7 KWS-TM on the Embedded System
 
 ---
 
