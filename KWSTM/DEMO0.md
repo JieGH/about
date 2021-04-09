@@ -5,7 +5,7 @@
 
 # [📽 🐍 Python Demo](https://youtu.be/JW0tztpjX8k)
 
-# [📽 📱 Embedded(STM32F746 MCU) Demo ](https://youtu.be/M_lY8SJH3yo)
+# [📽 📱 Embedded (STM32F746 MCU) Demo ](https://youtu.be/M_lY8SJH3yo)
 
 ---
 
