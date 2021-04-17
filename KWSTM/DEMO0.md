@@ -7,24 +7,24 @@
 
 [⇦ Back](https://jiegh.github.io/about/)
 
-## **Low-Power Audio Keyword Spotting using Tsetlin Machines**
+### **Low-Power Audio Keyword Spotting using Tsetlin Machines**
 
 
-## [📽 🐍 Python Demo](https://youtu.be/JW0tztpjX8k)
+### [📽 🐍 Python Demo](https://youtu.be/JW0tztpjX8k)
 
-## [📽 📱 Embedded (STM32F746 MCU) Demo ](https://youtu.be/M_lY8SJH3yo)
+### [📽 📱 Embedded (STM32F746 MCU) Demo ](https://youtu.be/M_lY8SJH3yo)
 
 
-## [📜 Up-to-date, Full-text at MDPI ](https://www.mdpi.com/2079-9268/11/2/18/htm)
+### [📜 Up-to-date, Full-text at MDPI ](https://www.mdpi.com/2079-9268/11/2/18/htm)
 New section: 4.7 KWS-TM on the Embedded System
 
 ---
 
-### [📜 What is Tsetlin Machine by Ole-Christoffer Granmo](https://arxiv.org/abs/1804.01508)
+#### [📜 What is Tsetlin Machine by Ole-Christoffer Granmo](https://arxiv.org/abs/1804.01508)
 
-### [👨‍💻 Tsetlin Machine at Github by Ole-Christoffer Granmo](https://github.com/cair/TsetlinMachine)
+#### [👨‍💻 Tsetlin Machine at Github by Ole-Christoffer Granmo](https://github.com/cair/TsetlinMachine)
 
-### [📽 Quick start Tsetlin Machine at Youtube](https://youtube.com/playlist?list=PLQTEHj1nqgNmBHtiw5l5cOs986WUKp8FZ)
+#### [📽 Quick start Tsetlin Machine at Youtube](https://youtube.com/playlist?list=PLQTEHj1nqgNmBHtiw5l5cOs986WUKp8FZ)
 
 
 ---
