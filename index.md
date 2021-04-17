@@ -2,7 +2,9 @@
 ### **Jie Lei** 
 
 
- 📮 Jie.Lei@newcastle.ac.uk  |  📮 Jie.Lei.contact@gmail.com | [🎓Google Scholar](https://scholar.google.com/citations?user=g0nZZiMAAAAJ&hl=en&oi=ao) 
+ 📮 Jie.Lei@newcastle.ac.uk  |  📮 Jie.Lei.contact@gmail.com 
+ 
+ [🎓Google Scholar](https://scholar.google.com/citations?user=g0nZZiMAAAAJ&hl=en&oi=ao) 
 | [📽Youtube](https://www.youtube.com/channel/UCbG3LTzpZPVncPePOpqxW9w)    |   [🐧Twitter](https://twitter.com/That_JieLei)
 
 
