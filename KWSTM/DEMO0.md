@@ -5,7 +5,7 @@
 
 ---
 
-[⇦ Back](about/index.md)
+[⇦ Back](https://jiegh.github.io/about/)
 
 ## **Low-Power Audio Keyword Spotting using Tsetlin Machines**
 
