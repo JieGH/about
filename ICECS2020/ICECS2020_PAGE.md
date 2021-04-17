@@ -1,7 +1,7 @@
  Jie.Lei@newcastle.ac.uk | Jie.Lei.contact@gmail.com 
  
- [🎓 Google Scholar](https://scholar.google.com/citations?user=g0nZZiMAAAAJ&hl=en&oi=ao) 
-| [📽 Youtube](https://www.youtube.com/channel/UCbG3LTzpZPVncPePOpqxW9w)    |   [🐧 Twitter](https://twitter.com/That_JieLei)
+ [🎓 Google Scholar](https://scholar.google.com/citations?user=g0nZZiMAAAAJ&hl=en&oi=ao){:target="_blank"} 
+| [📽 Youtube](https://www.youtube.com/channel/UCbG3LTzpZPVncPePOpqxW9w){:target="_blank"}    |   [🐧 Twitter](https://twitter.com/That_JieLei){:target="_blank"}
 
 ---
 
@@ -11,10 +11,10 @@
 
 - [📽 Teaser Video](https://youtu.be/9kjk-lMhSrM){:target="_blank"}
 
-- [📜 Poster](https://github.com/JieGH/about/blob/gh-pages/ICECS2020/-%20Poster%20-.pdf)
+- [📜 Poster](https://github.com/JieGH/about/blob/gh-pages/ICECS2020/-%20Poster%20-.pdf){:target="_blank"}
   
 
-- [📝 Paper Full-text](https://github.com/JieGH/about/blob/gh-pages/ICECS2020/ICECS2020_ID_8231_From_Arithmetic_to_Logic_Based_AI.pdf)
+- [📝 Paper Full-text](https://github.com/JieGH/about/blob/gh-pages/ICECS2020/ICECS2020_ID_8231_From_Arithmetic_to_Logic_Based_AI.pdf){:target="_blank"}
 
 ---
 
