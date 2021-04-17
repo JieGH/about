@@ -31,7 +31,7 @@ DOI:10.1109/ICECS49266.2020.9294877
 
 - 01/2021 [Keyword Spotting demo using Tsetlin Machine](https://youtu.be/JW0tztpjX8k)
 
-- 12/2020 [ICECS 2020 Poster Video: Comparing Neural networks with the Tsetlin Machin](https://youtu.be/9kjk-lMhSrM)
+- 12/2020 [👑 ICECS 2020 Poster Video: Comparing Neural networks with the Tsetlin Machin](https://youtu.be/9kjk-lMhSrM)
 
 - 08/2021 [ARM2020 Research Summit](https://youtu.be/N-wkgibJAZE)
 
