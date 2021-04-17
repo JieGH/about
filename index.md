@@ -13,10 +13,7 @@
 
 - 01/2021 [Paper: Low-Power Audio Keyword Spotting using Tsetlin Machines](KWSTM/DEMO0.md)
 
-- 10/2020, ICECS2020
-  -  [<span style="color:Crimson"> **👑 Best  Award** </span>:  Poster: Comparing Artificial Neural network with Tsetlin Machine](ICECS2020/ICECS2020_PAGE.md)
-
-  -  [Paper: From Arithmetic to Logic Based AI: a Comparative Analysis of Neural Networks and Tsetlin Machine](ICECS2020/ICECS2020_PAGE.md)
+- 10/2020 [👑 Best Poster Award: From Arithmetic to Logic Based AI: a Comparative Analysis of Neural Networks and Tsetlin Machine](ICECS2020/ICECS2020_PAGE.md)
 
 - 09/2020 [Paper: Learning Automata based Energy-efficient AI Hardware Design for IoT Applications](https://doi.org/10.1098/rsta.2019.0593)
 
