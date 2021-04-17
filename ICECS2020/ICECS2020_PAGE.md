@@ -16,12 +16,6 @@
 
 - [📝 Paper Full-text](https://github.com/JieGH/about/blob/gh-pages/ICECS2020/ICECS2020_ID_8231_From_Arithmetic_to_Logic_Based_AI.pdf)
 
-
-
-
-- [📜 Up-to-date, Full-text at MDPI ](https://www.mdpi.com/2079-9268/11/2/18/htm)
-New section: 4.7 KWS-TM on the Embedded System
-
 ---
 
 - [📜 What is Tsetlin Machine by Ole-Christoffer Granmo](https://arxiv.org/abs/1804.01508)
@@ -45,5 +39,5 @@ New section: 4.7 KWS-TM on the Embedded System
 Copy
 ```
 
-![ ](https://github.com/JieGH/about/blob/gh-pages/ICECS2020/icecs%20twitter.001.jpeg)
+![ ](icecs%20twitter.001.jpeg)
 
