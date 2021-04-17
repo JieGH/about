@@ -9,10 +9,10 @@
 
 #### **Low-Power Audio Keyword Spotting using Tsetlin Machines**
 
+- [📽 📱 Embedded (STM32F746 MCU) Demo ](https://youtu.be/M_lY8SJH3yo){:target="_blank"}
 
 - [📽 🐍 Python Demo](https://youtu.be/JW0tztpjX8k){:target="_blank"}
 
-- [📽 📱 Embedded (STM32F746 MCU) Demo ](https://youtu.be/M_lY8SJH3yo){:target="_blank"}
 
 
 - [📜 Up-to-date, Full-text at MDPI ](https://www.mdpi.com/2079-9268/11/2/18/htm){:target="_blank"}
