@@ -7,12 +7,16 @@
 
 [⇦ Back](https://jiegh.github.io/about/)
 
-#### **Low-Power Audio Keyword Spotting using Tsetlin Machines**
+#### **From Arithmetic to Logic based AI: A Comparative Analysis of Neural Networks and Tsetlin Machine**
+
+- [📽 Teaser Video](https://youtu.be/9kjk-lMhSrM)
+
+- [📜 Poster](https://github.com/JieGH/about/blob/gh-pages/ICECS2020/-%20Poster%20-.pdf)
+  
+
+- [📝 Paper Full-text](https://github.com/JieGH/about/blob/gh-pages/ICECS2020/ICECS2020_ID_8231_From_Arithmetic_to_Logic_Based_AI.pdf)
 
 
-- [📽 🐍 Python Demo](https://youtu.be/JW0tztpjX8k)
-
-- [📽 📱 Embedded (STM32F746 MCU) Demo ](https://youtu.be/M_lY8SJH3yo)
 
 
 - [📜 Up-to-date, Full-text at MDPI ](https://www.mdpi.com/2079-9268/11/2/18/htm)
@@ -28,23 +32,18 @@ New section: 4.7 KWS-TM on the Embedded System
 
 
 ---
-
 ```bash
-
-@Article{LeiLowPowerKWSTM,
-AUTHOR = {Lei, Jie and Rahman, Tousif and Shafik, Rishad and Wheeldon, Adrian and Yakovlev, Alex and Granmo, Ole-Christoffer and Kawsar, Fahim and Mathur, Akhil},
-TITLE = {Low-Power Audio Keyword Spotting Using Tsetlin Machines},
-JOURNAL = {Journal of Low Power Electronics and Applications},
-VOLUME = {11},
-YEAR = {2021},
-NUMBER = {2},
-ARTICLE-NUMBER = {18},
-URL = {https://www.mdpi.com/2079-9268/11/2/18},
-ISSN = {2079-9268},
-ABSTRACT = {The emergence of artificial intelligence (AI) driven keyword spotting (KWS) technologies has revolutionized human to machine interaction. Yet, the challenge of end-to-end energy efficiency, memory footprint and system complexity of current neural network (NN) powered AI-KWS pipelines has remained ever present. This paper evaluates KWS utilizing a learning automata powered machine learning algorithm called the Tsetlin Machine (TM). Through significant reduction in parameter requirements and choosing logic over arithmetic-based processing, the TM offers new opportunities for low-power KWS while maintaining high learning efficacy. In this paper, we explore a TM-based keyword spotting (KWS) pipeline to demonstrate low complexity with faster rate of convergence compared to NNs. Further, we investigate the scalability with increasing keywords and explore the potential for enabling low-power on-chip KWS.},
-DOI = {10.3390/jlpea11020018}
-}
+@INPROCEEDINGS{9294877,
+  author={J. {Lei} and A. {Wheeldon} and R. {Shafik} and A. {Yakovlev} and O. -C. {Granmo}},
+  booktitle={2020 27th IEEE International Conference on Electronics, Circuits and Systems (ICECS)}, 
+  title={From Arithmetic to Logic based AI: A Comparative Analysis of Neural Networks and Tsetlin Machine}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-4},
+  doi={10.1109/ICECS49266.2020.9294877}}
+Copy
 ```
 
-![ ](pic.jpeg)
+![ ](https://github.com/JieGH/about/blob/gh-pages/ICECS2020/icecs%20twitter.001.jpeg)
 
