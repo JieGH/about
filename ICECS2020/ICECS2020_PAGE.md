@@ -9,7 +9,7 @@
 
 #### **From Arithmetic to Logic based AI: A Comparative Analysis of Neural Networks and Tsetlin Machine**
 
-- [📽 Teaser Video](https://youtu.be/9kjk-lMhSrM)
+- [📽 Teaser Video](https://youtu.be/9kjk-lMhSrM){:target="_blank"}
 
 - [📜 Poster](https://github.com/JieGH/about/blob/gh-pages/ICECS2020/-%20Poster%20-.pdf)
   
