@@ -12,7 +12,7 @@
 ---
 #### **Publications**
 
-- 01/2021 [Paper: Low-Power Audio Keyword Spotting using Tsetlin Machines](https://github.com/JieGH/about/blob/gh-pages/KWSTM/DEMO0.md)
+- 01/2021 [Paper: Low-Power Audio Keyword Spotting using Tsetlin Machines](KWSTM/DEMO0.md)
 
 - 10/2020 [<span style="color:Crimson"> **👑 Best Poster Award** </span>:  Comparing Artificial Neural network with Tsetlin Machine](https://github.com/JieGH/about/blob/gh-pages/ICECS2020/-%20Poster%20-.pdf)
 
