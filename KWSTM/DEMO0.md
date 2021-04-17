@@ -5,7 +5,7 @@
 
 ---
 
-[⇦ Back](index.md)
+[⇦ Back](about/index.md)
 
 ## **Low-Power Audio Keyword Spotting using Tsetlin Machines**
 
