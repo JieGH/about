@@ -21,9 +21,9 @@ New section: 4.7 KWS-TM on the Embedded System
 
 ### [📜 What is Tsetlin Machine at arxiv by Ole-Christoffer Granmo](https://arxiv.org/abs/1804.01508)
 
-## [👨‍💻 Tsetlin Machine code at Github by Ole-Christoffer Granmo](https://github.com/cair/TsetlinMachine)
+### [👨‍💻 Tsetlin Machine code at Github by Ole-Christoffer Granmo](https://github.com/cair/TsetlinMachine)
 
-## [📽 Quick start Tsetlin Machine at Youtube](https://youtube.com/playlist?list=PLQTEHj1nqgNmBHtiw5l5cOs986WUKp8FZ)
+### [📽 Quick start Tsetlin Machine at Youtube](https://youtube.com/playlist?list=PLQTEHj1nqgNmBHtiw5l5cOs986WUKp8FZ)
 
 
 ---
