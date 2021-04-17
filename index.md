@@ -43,9 +43,9 @@
 
 - [Hardware_Tsetlin Machine_Demo on Iris Dataset](https://github.com/JieGH/Hardware_TM_Demo){:target="_blank"}
 
-- [Hardware_Tsetlin Machine_Demo on Iris Dataset](JieGH/Hardware_TM_Demo)
+- [Hardware_Tsetlin Machine_Demo on Iris Dataset](JieGH/Hardware_TM_Demo/blob/master/README.md)
   
-  
+
 - [Visulization of Tsetlin Automaton](https://github.com/JieGH/The-Ruler-of-Tsetlin-Automaton){:target="_blank"}
 
 - [Thermal Camera](https://github.com/JieGH/Thermal-Camera){:target="_blank"}
