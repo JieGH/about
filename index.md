@@ -1,5 +1,5 @@
 
-### **Jie Lei** 
+## **Jie Lei** 
 
 
  Jie.Lei@newcastle.ac.uk | Jie.Lei.contact@gmail.com 
@@ -10,7 +10,7 @@
 
 
 ---
-#### **Publications**
+## **Publications**
 
 - 01/2021 [Paper: Low-Power Audio Keyword Spotting using Tsetlin Machines](KWSTM/DEMO0.md)
 
@@ -24,7 +24,7 @@ DOI:10.1109/ICECS49266.2020.9294877
 - 07/2020 [Paper: A Novel Multi-Step Finite-State Automaton for Arbitrarily Deterministic Tsetlin Machine Learning](https://arxiv.org/abs/2007.02114)
 
 ---
-#### **Videos**
+## **Videos**
 
 - 03/2021 [Voice Recognition on the Edge (microcontroller) with Tsetlin Machines](https://youtu.be/M_lY8SJH3yo)
 
@@ -43,7 +43,7 @@ DOI:10.1109/ICECS49266.2020.9294877
 
 
 ---
-#### **Embedded System Designs**
+## **Embedded System Designs**
 
 - [Hardware_Tsetlin Machine_Demo on Iris Dataset](https://github.com/JieGH/Hardware_TM_Demo)
 
