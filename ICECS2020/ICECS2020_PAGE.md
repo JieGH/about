@@ -18,11 +18,11 @@
 
 ---
 
-- [📜 What is Tsetlin Machine by Ole-Christoffer Granmo](https://arxiv.org/abs/1804.01508)
+- [📜 What is Tsetlin Machine by Ole-Christoffer Granmo](https://arxiv.org/abs/1804.01508){:target="_blank"}
 
-- [👨‍💻 Tsetlin Machine at Github by Ole-Christoffer Granmo](https://github.com/cair/TsetlinMachine)
+- [👨‍💻 Tsetlin Machine at Github by Ole-Christoffer Granmo](https://github.com/cair/TsetlinMachine){:target="_blank"}
 
-- [📽 Quick start Tsetlin Machine at Youtube](https://youtube.com/playlist?list=PLQTEHj1nqgNmBHtiw5l5cOs986WUKp8FZ)
+- [📽 Quick start Tsetlin Machine at Youtube](https://youtube.com/playlist?list=PLQTEHj1nqgNmBHtiw5l5cOs986WUKp8FZ){:target="_blank"}
 
 
 ---
