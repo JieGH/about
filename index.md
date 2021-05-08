@@ -22,7 +22,6 @@
 
 - 03/2021 [Voice Recognition on the Edge (microcontroller) with Tsetlin Machines](https://youtu.be/M_lY8SJH3yo){:target="_blank"}
 
-
 - 01/2021 [Keyword Spotting demo using Tsetlin Machine](https://youtu.be/JW0tztpjX8k){:target="_blank"}
 
 - 12/2020 [👑 ICECS 2020 Poster Video: Comparing Neural networks with the Tsetlin Machin](https://youtu.be/9kjk-lMhSrM){:target="_blank"}
