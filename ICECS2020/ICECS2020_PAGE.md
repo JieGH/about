@@ -5,7 +5,7 @@
 
 ---
 
-[⇦ Back](https://jiegh.github.io/about/)
+[⇦ Back Home](https://jiegh.github.io/about/)
 
 #### **From Arithmetic to Logic based AI: A Comparative Analysis of Neural Networks and Tsetlin Machine**
 
