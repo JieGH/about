@@ -115,6 +115,11 @@
 
 ---
 
+## Delta P cross 3 in-accuract methods
+
+
+<img src="DeltaP.png " alt="drawing" style="width:300px;"/>
+
 
 ---
 ---
