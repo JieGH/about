@@ -19,6 +19,9 @@
 
 ---
 
+📜 - [Wiring & adapter schematic   ](https://github.com/JieGH/about/blob/gh-pages/CurrentMeasurement/schematic.pdf){:target="_blank"}
+
+---
 ## 1.0 Using Shunt resister
 
 ### 1.1 Wiring
