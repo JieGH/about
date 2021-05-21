@@ -20,8 +20,7 @@
 ---
 #### **Videos**
 
-- 05/2021 [4 methods of Current measurement & Comparison
-](CurrentMeasurement/text.md)
+- 05/2021 [4 methods of Current measurement & Comparison](CurrentMeasurement/text.md)
 
 - 03/2021 [Voice Recognition on the Edge (microcontroller) with Tsetlin Machines](https://youtu.be/M_lY8SJH3yo){:target="_blank"}
 
