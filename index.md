@@ -20,6 +20,9 @@
 ---
 #### **Videos**
 
+- 05/2021 [4 methods of Current measurement & Comparison
+](https://github.com/JieGH/about/blob/gh-pages/CurrentMeasurement/text.md)
+
 - 03/2021 [Voice Recognition on the Edge (microcontroller) with Tsetlin Machines](https://youtu.be/M_lY8SJH3yo){:target="_blank"}
 
 - 01/2021 [Keyword Spotting demo using Tsetlin Machine](https://youtu.be/JW0tztpjX8k){:target="_blank"}
