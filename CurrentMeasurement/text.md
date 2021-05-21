@@ -71,6 +71,126 @@
 | AVG 	|   	| 0.56% 	|   	|   	| -1.40 	|
 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">TinyCurrent</th>
+    <th class="tg-0pky">V_10KR in V</th>
+    <th class="tg-0pky">V Drop</th>
+    <th class="tg-0pky">I_10KR in mA</th>
+    <th class="tg-0pky">P_10KR in mW</th>
+    <th class="tg-0pky">Delta P in mW</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">0.9948</td>
+    <td class="tg-0pky">0.52%</td>
+    <td class="tg-0pky">9.955</td>
+    <td class="tg-0pky">9.90</td>
+    <td class="tg-0pky">-0.12</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">1.4</td>
+    <td class="tg-0pky">1.392</td>
+    <td class="tg-0pky">0.57%</td>
+    <td class="tg-0pky">13.959</td>
+    <td class="tg-0pky">19.43</td>
+    <td class="tg-0pky">-0.19</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">1.8</td>
+    <td class="tg-0pky">1.7898</td>
+    <td class="tg-0pky">0.57%</td>
+    <td class="tg-0pky">17.9839</td>
+    <td class="tg-0pky">32.19</td>
+    <td class="tg-0pky">-0.29</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2.2</td>
+    <td class="tg-0pky">2.1869</td>
+    <td class="tg-0pky">0.60%</td>
+    <td class="tg-0pky">21.93</td>
+    <td class="tg-0pky">47.96</td>
+    <td class="tg-0pky">-0.52</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2.6</td>
+    <td class="tg-0pky">2.5844</td>
+    <td class="tg-0pky">0.60%</td>
+    <td class="tg-0pky">25.903</td>
+    <td class="tg-0pky">66.94</td>
+    <td class="tg-0pky">-0.82</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">2.9817</td>
+    <td class="tg-0pky">0.61%</td>
+    <td class="tg-0pky">29.864</td>
+    <td class="tg-0pky">89.05</td>
+    <td class="tg-0pky">-1.06</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3.4</td>
+    <td class="tg-0pky">3.3826</td>
+    <td class="tg-0pky">0.51%</td>
+    <td class="tg-0pky">33.881</td>
+    <td class="tg-0pky">114.61</td>
+    <td class="tg-0pky">-1.11</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3.8</td>
+    <td class="tg-0pky">3.7797</td>
+    <td class="tg-0pky">0.53%</td>
+    <td class="tg-0pky">37.859</td>
+    <td class="tg-0pky">143.10</td>
+    <td class="tg-0pky">-1.43</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">4.2</td>
+    <td class="tg-0pky">4.1771</td>
+    <td class="tg-0pky">0.55%</td>
+    <td class="tg-0pky">41.841</td>
+    <td class="tg-0pky">174.77</td>
+    <td class="tg-0pky">-1.81</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">4.6</td>
+    <td class="tg-0pky">4.5745</td>
+    <td class="tg-0pky">0.55%</td>
+    <td class="tg-0pky">45.832</td>
+    <td class="tg-0pky">209.66</td>
+    <td class="tg-0pky">-2.28</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky">4.972</td>
+    <td class="tg-0pky">0.56%</td>
+    <td class="tg-0pky">49.818</td>
+    <td class="tg-0pky">247.70</td>
+    <td class="tg-0pky">-5.83</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">AVG</td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky">0.56%</td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky"> </td>
+    <td class="tg-0pky">-1.40</td>
+  </tr>
+</tbody>
+</table>
+
+
 ## 3.0 Using multimeter 
 
 ### 3.1 Wiring
