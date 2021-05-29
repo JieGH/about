@@ -10,13 +10,18 @@
 #### **Papers**
 
 - 01/2021 [Paper: Low-Power Audio Keyword Spotting using Tsetlin Machines](KWSTM/DEMO0.md)
+<br />  *Lei, J.; Rahman, T.; Shafik, R.; Wheeldon, A.; Yakovlev, A.; Granmo, O.-C.; Kawsar, F.; Mathur, A. Low-Power Audio Keyword Spotting Using Tsetlin Machines. J. Low Power Electron. Appl. 2021, 11, 18. https://doi.org/10.3390/jlpea11020018*
+
 
 - 10/2020 [👑 Best Poster Award: From Arithmetic to Logic Based AI: a Comparative Analysis of Neural Networks and Tsetlin Machine](ICECS2020/ICECS2020_PAGE.md)
+<br /> *J. Lei, A. Wheeldon, R. Shafik, A. Yakovlev and O. -C. Granmo, "From Arithmetic to Logic based AI: A Comparative Analysis of Neural Networks and Tsetlin Machine," 2020 27th IEEE International Conference on Electronics, Circuits and Systems (ICECS), 2020, pp. 1-4, doi: 10.1109/ICECS49266.2020.9294877.*
 
 - 09/2020 [Paper: Learning Automata based Energy-efficient AI Hardware Design for IoT Applications](https://doi.org/10.1098/rsta.2019.0593){:target="_blank"}
+<br /> *Wheeldon Adrian, Shafik Rishad, Rahman Tousif, Lei Jie, Yakovlev Alex and Granmo Ole-Christoffer 2020Learning automata based energy-efficient AI hardware design for IoT applicationsPhil. Trans. R. Soc. A.3782019059320190593
+http://doi.org/10.1098/rsta.2019.0593*
 
 - 07/2020 [Paper: A Novel Multi-Step Finite-State Automaton for Arbitrarily Deterministic Tsetlin Machine Learning](https://arxiv.org/abs/2007.02114){:target="_blank"}
-
+<br /> * K. Darshana Abeyrathna, Ole-Christoffer Granmo, Rishad Shafik, Alex Yakovlev, Adrian Wheeldon, Jie Lei, Morten Goodwin*
 ---
 #### **Videos**
 
