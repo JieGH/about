@@ -7,6 +7,7 @@
 
 
 ---
+
 #### **Papers**
 
 - 01/2021 [Paper: Low-Power Audio Keyword Spotting using Tsetlin Machines](KWSTM/DEMO0.md)
@@ -22,7 +23,9 @@ http://doi.org/10.1098/rsta.2019.0593*
 
 - 07/2020 [Paper: A Novel Multi-Step Finite-State Automaton for Arbitrarily Deterministic Tsetlin Machine Learning](https://arxiv.org/abs/2007.02114){:target="_blank"}
 <br /> * K. Darshana Abeyrathna, Ole-Christoffer Granmo, Rishad Shafik, Alex Yakovlev, Adrian Wheeldon, Jie Lei, Morten Goodwin*
+
 ---
+
 #### **Videos**
 
 - 05/2021 [4 methods of Current measurement & Comparison](CurrentMeasurement/text.md)
