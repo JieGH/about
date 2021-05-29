@@ -7,7 +7,7 @@
 
 
 ---
-#### **Publications**
+#### **Papers**
 
 - 01/2021 [Paper: Low-Power Audio Keyword Spotting using Tsetlin Machines](KWSTM/DEMO0.md)
 
