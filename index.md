@@ -1,9 +1,10 @@
-
- Jie.Lei@newcastle.ac.uk | Jie.Lei.contact@gmail.com 
+SW/HW/AI engineer.
+FPGA, Embedded System, FR
  
  [🎓 Google Scholar](https://scholar.google.com/citations?user=g0nZZiMAAAAJ&hl=en&oi=ao){:target="_blank"} 
 | [📽 Youtube](https://www.youtube.com/channel/UCbG3LTzpZPVncPePOpqxW9w){:target="_blank"}    |   [🐧 Twitter](https://twitter.com/That_JieLei){:target="_blank"}
 
+ Jie.Lei@newcastle.ac.uk | Jie.Lei.contact@gmail.com 
 
 
 ---
