@@ -1,5 +1,5 @@
 SW/HW/AI engineer.
-FPGA, Embedded System, FR
+FPGA, Embedded System, RF
  
  [🎓 Google Scholar](https://scholar.google.com/citations?user=g0nZZiMAAAAJ&hl=en&oi=ao){:target="_blank"} 
 | [📽 Youtube](https://www.youtube.com/channel/UCbG3LTzpZPVncPePOpqxW9w){:target="_blank"}    |   [🐧 Twitter](https://twitter.com/That_JieLei){:target="_blank"}
