@@ -56,3 +56,6 @@ http://doi.org/10.1098/rsta.2019.0593*
 - [Thermal Camera](https://github.com/JieGH/Thermal-Camera){:target="_blank"}
 
 - [E-ink Dashboard](https://github.com/JieGH/Epaper-Dashboard_7.5inch){:target="_blank"}
+
+
+<a class="twitter-timeline" href="https://twitter.com/That_JieLei?ref_src=twsrc%5Etfw">Tweets by That_JieLei</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
