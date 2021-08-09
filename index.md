@@ -29,7 +29,7 @@ http://doi.org/10.1098/rsta.2019.0593*
 
 #### **Videos**
 
-- 08/2021 [Distributed Tsetlin Machine on a heterogeneous AI cluster] (https://twitter.com/That_JieLei/status/1424674605126623234?s=20){:target="_blank"}
+- 08/2021 [Distributed Tsetlin Machine on a heterogeneous AI cluster](https://twitter.com/That_JieLei/status/1424674605126623234){:target="_blank"}
   
 - 05/2021 [4 methods of Current measurement & Comparison](CurrentMeasurement/text.md)
 
