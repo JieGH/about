@@ -14,6 +14,11 @@ JLEI@DISCA.UPV.ES  | Jie.Lei.contact@gmail.com
 
 #### **Papers**
 
+
+- 03/2022 [Paper: Logic-based intelligence for batteryless sensors](https://dl.acm.org/doi/abs/10.1145/3508396.3512870)
+<br />  *Abu Bakar, Tousif Rahman, Alessandro Montanari, Jie Lei, Rishad Shafik, Fahim Kawsar, HotMobile '22: Proceedings of the 23rd Annual International Workshop on Mobile Computing Systems and ApplicationsMarch 2022 Pages 22–28 https://doi.org/10.1145/3508396.3512870*
+
+
 - 01/2021 [Paper: Low-Power Audio Keyword Spotting using Tsetlin Machines](KWSTM/DEMO0.md)
 <br />  *Lei, J.; Rahman, T.; Shafik, R.; Wheeldon, A.; Yakovlev, A.; Granmo, O.-C.; Kawsar, F.; Mathur, A. Low-Power Audio Keyword Spotting Using Tsetlin Machines. J. Low Power Electron. Appl. 2021, 11, 18. https://doi.org/10.3390/jlpea11020018*
 
