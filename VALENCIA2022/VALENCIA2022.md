@@ -71,7 +71,7 @@ Tram don’t have ticket gate, **scan at station** before boarding. No need to s
 
 **No ticket sale on board. No scanner on board.** 
 
-You can get to UPV by leaving station La Carrasca [Google Maps](https://goo.gl/maps/J63Wm8mmRVYiSGDm8)
+The **exact location of Summer shool venue** is [here](https://g.page/UPVCFP?share)
 
 [Metro info](https://www.metrovalencia.es/en/)
 
@@ -139,11 +139,22 @@ and [**Consum**](https://www.consum.es/en/)
 
 Open at weekend: **Carrefour express**,  **Suma**
 
+
+---
+## 🏝️ Places to Visit in Valencia
+
+Tourist office website: [Here](https://www.visitvalencia.com/en)
+
+You can also visit the tourist office for more information.[Google Maps](https://www.google.es/maps/search/Tourist+Information+valencia/@39.4765895,-0.4014255,13z)
+
+- Different zones of Valencia [HERE](https://www.visitvalencia.com/en/what-to-see-valencia/neighbourhoods-and-areas-valencia)
+
+- Top attractions [HERE](https://www.visitvalencia.com/en/what-to-see-valencia/top-valencia-attractions)
+
 ---
 
 ## 🏝️ Destinations outside the city
 
-Tourist office website: [Here](https://www.visitvalencia.com/en)
 
 Destinations are suitable for day trip. 
 To purchase train tickets, for simplicity, you can use third party app such as **Omio** 
