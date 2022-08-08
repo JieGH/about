@@ -90,7 +90,7 @@ You can get to UPV by leaving station La Carrasca [Google Maps](https://goo.gl/m
 ---
 
 #### 🚌 Taking bus 
-**Scan card at front door **of bus, near the bus driver. 
+**Scan card at front door** of bus, near the bus driver. 
 You don’t need to tell driver where you going. Bus price is universal cross bus network. 
 You can also purchase **bus ticket on board with cash only**(max €10 banknote ) or use [bus App](https://www.emtvalencia.es/app.php). 
 Bank card payment is not accepted on the bus. 
@@ -142,22 +142,18 @@ Open at weekend: **Carrefour express**,  **Suma**
 Tourist office website: [Here](https://www.visitvalencia.com/en)
 
 Destinations are suitable for day trip. 
-To purchase train tickets, for simplicity, you can use third party app such as Omio 
+To purchase train tickets, for simplicity, you can use third party app such as **Omio** 
 
-The town Xativa a little town with a castle, via renfe train 
-
-https://goo.gl/maps/mPMAtoWF4HySg8cy8
-
-The town Sagunto a little town with ruined castle, vía renfe Regional train 
-
-https://goo.gl/maps/4Rz25xocQKdobJmA9
+The town [**Xativa**](https://goo.gl/maps/mPMAtoWF4HySg8cy8) a little town with a castle, via **renfe train** 
 
 
-The Albufera lake and beach, via EMT bus with €1.50 
-
-https://g.page/miradoralbuferapaseosenbarca?share 
+The town [**Sagunto**](https://goo.gl/maps/4Rz25xocQKdobJmA9) a little town with ruined castle, vía **renfe Regional train** 
 
 
-The town Benidorm, via mid distance bus ALSA
 
-https://goo.gl/maps/YNUWzqswG4xcLnvw7
+The [**Albufera**](https://g.page/miradoralbuferapaseosenbarca?share) lake and beach, via EMT bus **Line 24/25** with €1.50 
+
+
+
+The town [**Benidorm**](https://goo.gl/maps/YNUWzqswG4xcLnvw7), via mid distance bus **ALSA**
+
