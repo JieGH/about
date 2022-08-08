@@ -7,22 +7,10 @@ Contact Jie Lei
 # **Summer school at Valencia, Spain**
 
 
-Hi, people from the Apropos group. In this post, I will share some tips and infomasions about my summer school at Valencia, Spain.
+Hi, people from the **Apropos** group. In this post, I will share some tips and information about my summer school at Valencia, Spain.
 These information mainly about travel, eat and explore.
 
 Jump to sections:
-
-- 💶 [Currency](#💶-spending-and-currency) 
-- ✈️ [Transport Card at Airport](#✈️-you-just-arrived-in-valencia)) 
-- 🏙️ [Transport Card at City](#🏙️-you-are-in-the-city-centre)
-- 🚇 [Taking Metro](#🚇-taking-metro)
-- 🚋 [Taking Trams](#🚋-taking-tram)
-- 🚌 [Taking Bus](#🚌-taking-bus)
-- 🚲 [Taking Bikes](#🚲-taking-bikes)
-- 🚕 [Taking Taxi](#🚕-taking-taxi)
-- 🥘 [Recommended Food and Restaurants](#🥘-food-and-restaurants)
-- 🛒 [Supermarket](#🛒-supermarket)
-- 🏝️ [Day trip Towns](#🏝️-destinations-outside-the-city)
 
 
 ---
@@ -114,6 +102,22 @@ You can book the bike using the Valenbisi application.
 #### 🚕 Taking Taxi
 
 You can book taxi using app [FreeNow](https://www.free-now.com/es/)
+
+
+---
+## 🏫 **Where is the summer school venue?**
+
+The venue is in the middle of the UPV campus. 
+The building called **CFP** building. 
+
+The **exact location of CFP** is [here](https://g.page/UPVCFP?share)
+
+The **room is  2.9 & 2.10** in the second floor of CFP building. 
+
+The closest tram stop is [**Tarongers-Ernest Lluch**](https://goo.gl/maps/YhdDfnmoFLoW9QmB8)
+
+
+---
 
 
 ## 🥘 Food and restaurants 
