@@ -10,8 +10,6 @@ Contact Jie Lei
 Hi, people from the **Apropos** group. In this post, I will share some tips and information about our summer school at Valencia, Spain.
 These information mainly about travel, eat and explore.
 
-Jump to sections:
-
 
 ---
 ## 💶 Spending and currency 
