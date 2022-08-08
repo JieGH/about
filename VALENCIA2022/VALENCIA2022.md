@@ -7,7 +7,7 @@ Contact Jie Lei
 # **Summer school at Valencia, Spain**
 
 
-Hi, people from the **Apropos** group. In this post, I will share some tips and information about my summer school at Valencia, Spain.
+Hi, people from the **Apropos** group. In this post, I will share some tips and information about our summer school at Valencia, Spain.
 These information mainly about travel, eat and explore.
 
 Jump to sections:
