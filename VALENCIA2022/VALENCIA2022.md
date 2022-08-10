@@ -2,43 +2,39 @@ Need help?
 
 Contact Jie Lei 
 
----
-
-# **Summer school at Valencia, Spain**
+**Summer school in Valencia,** Spain**
 
 
-Hi, people from the **Apropos** group. In this post, I will share some tips and information about our summer school at Valencia, Spain.
-These information mainly about travel, eat and explore.
+Hi, people from the **Apropos** group. This post will share tips and information about our summer school in Valencia, Spain.
+This information is mainly about traveling, eating, and exploring.
 
 
 ---
 ## 💶 Spending and currency 
-The currency is euro. 
+The currency is the euro. 
 It’s **recommended to have cash** with you.
-For some rare cases, you need it to bus bus ticket or purchasing tram tickets from the broken cash only ticket machine. 
-In most of cases, card is enough.
+In some rare cases, you need it to buy bus tickets or tram tickets from the broken cash-only ticket machine. In most cases, card is enough.
 
 ---
 ## Public transportation 
 
-Valencia is a city with wide range of public transportation options and coverage. 
+Valencia is a city with a wide range of public transportation options and coverage. 
 
 ---
 
 ## ✈️ You just arrived in Valencia.
-
-After arriving the airport. You can take bus or metro to the city centre. 
+After arriving at the airport, you can take a bus or metro to the city centre. 
 External links: [HERE](https://www.valencia-cityguide.com/tourist-information/transport/transport-from-the-airport-to-the-city.html)
 
-I would recommend talking metro to get to the centre. 
-Like most of city, the airport is in a extra charging zone of metro network. When leaving and arriving to the airport, make sure you purchase a single airport ticket. 
+I would recommend taking metro to get to the centre. 
+Like most of the city, the airport is in an extra charging zone of the metro network. When leaving and arriving at the airport, purchase a single airport ticket. 
 
 You can also choose to purchase a **SUMA10-ABC** tickets, this is a 10 trips ticket can be used in zone ABC, bus, tram and metro. Price is €21.  
-The 10 trips has long term validation. 
+The 10 trips have long-term validation. 
 
-This is usually not necessary since airport is the only stop in zone C. You would less likely go to zone c during your stay.  
+This is usually not necessary since the airport is the only stop in zone C. You would less likely go to zone c during your stay.  
 But a single airport ticket is €6   
-So. **To buy a ABC ticket just easier for short tern visiter.**
+So. **To buy **an** ABC ticket just** easier for a short-term visiter.**
 
 
 About **SUMA-10** [here]( https://www.metrovalencia.es/en/communications/what-is-suma/)
@@ -47,16 +43,15 @@ About **SUMA-10** [here]( https://www.metrovalencia.es/en/communications/what-is
 
 ## 🏙️ You are in the city centre.
 
-You can purchase **SUMA10-A** tickets that contains **10 trips** valid on **metro, tram and bus in zone A**.  
-Price is €8.
-SUMA-10 ticket can be shared by multiple people, scan ticket twice means you paid two trip for two person. 
+You can purchase **SUMA10-A** tickets that contain **10 trips**** valid on **metro, tram and bus in zone A**. The price is €8.
+SUMA-10 ticket can be shared by multiple people, scan ticket twice means you paid two trips for two person. 
 This ticket is not valid from and to airport. 
 You can get this ticket from metro and tram stations. 
 
 ---
 
 ## Taking public transportations
-If you have SUMA-10, you can use it on these three methods of transportation.
+If you have SUMA-10, you can use it on these three transportation methods.
 
 #### 🚇 Taking metro. 
 Metro has ticket gate, scan in once to get in. Scan out to get out.  
@@ -65,7 +60,8 @@ https://www.metrovalencia.es/en/
 ---
 
 #### 🚋 Taking tram 
-Tram don’t have ticket gate, **scan at station** before boarding. No need to scan out when leaving. 
+
+Tram doesn't have a ticket gate, **scan at station** before boarding. No need to scan out when leaving. 
 
 **No ticket sale on board. No scanner on board.** 
 
@@ -76,11 +72,10 @@ The **exact location of Summer shool venue** is [here](https://g.page/UPVCFP?sha
 ---
 
 #### 🚌 Taking bus 
-**Scan card at front door** of bus, near the bus driver. 
-You don’t need to tell driver where you going. Bus price is universal cross bus network. 
+**Scan card at the front door** of the bus, near the bus driver. 
+You don’t need to tell the driver where you are going. Bus price is universal cross bus network. 
 You can also purchase **bus ticket on board with cash only**(max €10 banknote ) or use [bus App](https://www.emtvalencia.es/app.php). 
-Bank card payment is not accepted on the bus. 
-Leave bus from the second or third door. 
+Bank card payment is not accepted on the bus. Leave the bus from the second or third door. 
 
 [Bus info](https://www.emtvalencia.es/ciudadano/index.php)
 
@@ -105,12 +100,11 @@ You can book taxi using app [FreeNow](https://www.free-now.com/es/)
 ---
 ## 🏫 **Where is the summer school venue?**
 
-The venue is in the middle of the UPV campus. 
-The building called **CFP** building. 
+The venue is in the middle of the UPV campus. The building is called **CFP** building. 
 
 The **exact location of CFP** is [here](https://g.page/UPVCFP?share)
 
-The **room is  2.9 & 2.10** in the second floor of CFP building. 
+The **room is  2.9 & 2.10** on the second floor of CFP building. 
 
 The closest tram stop is [**Tarongers-Ernest Lluch**](https://goo.gl/maps/YhdDfnmoFLoW9QmB8)
 
@@ -154,13 +148,13 @@ You can also visit the tourist office for more information.[Google Maps](https:/
 ## 🏝️ Destinations outside the city
 
 
-Destinations are suitable for day trip. 
-To purchase train tickets, for simplicity, you can use third party app such as **Omio** 
+Destinations are suitable for day trips. 
+To purchase train tickets, for simplicity, you can use third-party app such as **Omio** 
 
 The town [**Xativa**](https://goo.gl/maps/mPMAtoWF4HySg8cy8) a little town with a castle, via **renfe train** 
 
 
-The town [**Sagunto**](https://goo.gl/maps/4Rz25xocQKdobJmA9) a little town with ruined castle, vía **renfe Regional train** 
+The town [**Sagunto**](https://goo.gl/maps/4Rz25xocQKdobJmA9) a little town with a ruined castle, vía **renfe Regional train** 
 
 
 
