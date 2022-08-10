@@ -2,7 +2,8 @@ Need help?
 
 Contact Jie Lei 
 
-**Summer school in Valencia,** Spain**
+**Apropos Summer school in Valencia, Spain**
+---
 
 
 Hi, people from the **Apropos** group. This post will share tips and information about our summer school in Valencia, Spain.
@@ -29,7 +30,7 @@ External links: [HERE](https://www.valencia-cityguide.com/tourist-information/tr
 I would recommend taking metro to get to the centre. 
 Like most of the city, the airport is in an extra charging zone of the metro network. When leaving and arriving at the airport, purchase a single airport ticket. 
 
-You can also choose to purchase a **SUMA10-ABC** tickets, this is a 10 trips ticket can be used in zone ABC, bus, tram and metro. Price is €21.  
+You can also choose to purchase a **SUMA10-ABC** tickets, this is a 10 trips ticket can be used in zone ABC, bus, tram and metro. The price is €21.  
 The 10 trips have long-term validation. 
 
 This is usually not necessary since the airport is the only stop in zone C. You would less likely go to zone c during your stay.  
