@@ -116,6 +116,7 @@ The closest tram stop is [**Tarongers-Ernest Lluch**](https://goo.gl/maps/YhdDfn
 ## 🥘 Food and restaurants 
 
 I gathered a **list of restaurants** that I have vetted and recommended by others. 
+
 [List on google maps](https://www.google.com/maps/placelists/list/-cezeKbvQd2w56Hv-pX_Rw)
 
 Tipping is not mandatory. 
@@ -128,6 +129,7 @@ Generally around 2% of the bill.
 Search [**Mercadona**](https://info.mercadona.es/en/supermercados) 
 and [**Consum**](https://www.consum.es/en/)
 
+Also: [**supermercado**](https://www.elcorteingles.es/supermarket/)
 
 
 Open at weekend: **Carrefour express**,  **Suma**
