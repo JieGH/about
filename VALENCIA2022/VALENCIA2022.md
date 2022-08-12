@@ -2,13 +2,18 @@ Need help?
 
 Contact Jie Lei 
 
-**Apropos Summer school in Valencia, Spain**
+
+**Travel tips for APROPOS summer school in Valencia**
 ---
 
 
 Hi, people from the **Apropos** group. This post will share tips and information about our summer school in Valencia, Spain.
 This information is mainly about traveling, eating, and exploring.
 
+---
+## ✈️ To get to Valencia 
+You can travel to Valencia via flights directly to Valencia.
+You can also travel to neighboring cities such as Madrid, Barcelona, and Alicante then travel to Valencia via train. 
 
 ---
 ## 💶 Spending and currency 
@@ -116,8 +121,15 @@ The closest tram stop is [**Tarongers-Ernest Lluch**](https://goo.gl/maps/YhdDfn
 
 
 ---
+## ✨ 🥘 Regional Specialty  
+[Paella](https://en.wikipedia.org/wiki/Paella), a famous rice dish cooks with Chicken, Rabbit, or seafood.
+
+[Horchata](https://en.wikipedia.org/wiki/Horchata) the traditional drink that made from a plant called Chufa.
+
+[Jamon](https://en.wikipedia.org/wiki/Jam%C3%B3n) aged pork meat.
 
 
+---
 ## 🥘 Food and restaurants 
 
 I gathered a **list of restaurants** that I have vetted and recommended by others. 
