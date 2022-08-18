@@ -20,7 +20,7 @@ You can also travel to neighboring cities such as Madrid, Barcelona, and Alicant
 ## 🏠 Accommodation suggestions
 Accommodation, book as soon as possible because the stay expands over 5 days, which is challenging to find a room with these consecutive days. 
 
-Event will start from Morning of 26/09/2022 to Evening of 30/09/2022.
+Event will start from the Morning of 26/09/2022 to the Evening of 30/09/2022.
 
 Avoid Airbnb near the beach; At least 2 KM away from the beach.
 
