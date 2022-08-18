@@ -192,16 +192,16 @@ Destinations are suitable for day trips.
 
 To purchase train tickets, for simplicity, you can use third-party app such as **Omio** 
 
-- The town [**Xativa**](https://goo.gl/maps/mPMAtoWF4HySg8cy8) a peaceful little town with a castle in the top of mountain, travel via **renfe train** 
+- The town [**Xativa**](https://goo.gl/maps/mPMAtoWF4HySg8cy8) a peaceful little town with a castle in the top of mountain, travel via **renfe train** some ticket can only be purchased from train station at the same day.  
 
 
 - The town [**Sagunto**](https://goo.gl/maps/4Rz25xocQKdobJmA9) a peaceful little town with an Ancient castle, vía **renfe Regional train** 
 
 
 
-- The [**Albufera**](https://g.page/miradoralbuferapaseosenbarca?share) has a popular lake for watching sunset, and a natural park for picnic, a beach for swimming, travel via EMT bus **Line 24/25** with €1.50 
+- The [**Albufera**](https://g.page/miradoralbuferapaseosenbarca?share) has a popular lake for watching sunset, and a natural park for picnics, a beach for swimming, travel via EMT bus **Line 24/25** with €1.50 
 
 
 
-- The town [**Benidorm**](https://goo.gl/maps/YNUWzqswG4xcLnvw7), popular tourist town, via mid distance bus **ALSA**
+- The town **Benidorm**, a popular tourist town, via mid distance bus **ALSA**
 
