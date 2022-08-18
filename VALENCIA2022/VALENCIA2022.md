@@ -15,6 +15,20 @@ This information is mainly about traveling, eating, and exploring.
 You can travel to Valencia via flights directly to Valencia.
 You can also travel to neighboring cities such as Madrid, Barcelona, and Alicante then travel to Valencia via train. 
 
+
+---
+## 🏠 Accommodation suggestions
+Accommodation, book as soon as possible because the stay expands over 5 days, which is challenging to find a room with these consecutive days. 
+
+Avoid Airbnb near the beach; At least 2 KM away from the beach.
+
+Places recommended:
+-  Benimaclet (student area, 10 minutes away on foot), 
+- Avinguda de Blasco Ibáñez (student area, 10 minutes away on foot), 
+- Av. del Puerto (close to sea, park, and transportation, 25 minutes away on tram), 
+- Valencia old town near metro stop Colón (tourist, 25 minutes away on bus)
+
+
 ---
 ## 💶 Spending and currency 
 The currency is the euro. 
