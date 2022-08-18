@@ -23,10 +23,14 @@ Accommodation, book as soon as possible because the stay expands over 5 days, wh
 Avoid Airbnb near the beach; At least 2 KM away from the beach.
 
 Places recommended:
--  Benimaclet (student area, 10 minutes away on foot), 
-- Avinguda de Blasco Ibáñez (student area, 10 minutes away on foot), 
-- Av. del Puerto (close to sea, park, and transportation, 25 minutes away on tram), 
-- Valencia old town near metro stop Colón (tourist, 25 minutes away on bus)
+
+ [Benimaclet](https://goo.gl/maps/tC9zJxQHcSjhVxgg7) (student area, 10 minutes away on foot), 
+
+ [Avinguda de Blasco Ibáñez](https://goo.gl/maps/HShCUSKPiM7KFSRZ9) (student area, 10 minutes away on foot), 
+
+ [Av. del Puerto](https://goo.gl/maps/jXwUzEeAtsiH1Sj47) (close to sea, park, and transportation, 25 minutes away on tram), 
+
+Valencia [old town](https://goo.gl/maps/Mht3gxMKQfxYHWEt8) near metro stop Colón (tourist area, 25 minutes away on bus)
 
 
 ---
