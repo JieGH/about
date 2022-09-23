@@ -9,12 +9,74 @@ Contact Jie Lei
 
 Hi, people from the **Apropos** group. This post will share tips and information about our summer school in Valencia, Spain.
 This information is mainly about traveling, eating, and exploring.
+<p>&nbsp;</p>
 
+
+---
+## 🏫 **Where is the summer school venue?**
+
+The venue is in the middle of the UPV campus. The building is called **CFP** building. 
+
+The **exact location of CFP** is [here](https://g.page/UPVCFP?share)
+
+The **room is  2.9 & 2.10** on the second floor of CFP building. 
+
+The closest tram stop is [**Tarongers-Ernest Lluch**](https://goo.gl/maps/YhdDfnmoFLoW9QmB8)
+
+
+
+## 🌞 🥘 **Where is the lunch venue for everyday?**
+
+The lunch venue is Cafeteria la Vella.
+
+The starting time is 1:30 PM 26th-30th/Sep.
+
+The **exact location of Cafeteria la Vella** is [here]( https://goo.gl/maps/fL4ZhJUsEE6n348B8)
+
+
+<p>&nbsp;</p>
+
+# Special Events on Monday 
+<!-- ## 🌙 🏙 **Where is the Guided tour for Monday?**
+
+The starting time is 7:30 PM 26th/Sep.
+
+The **Starting location of guided tour** is [here]( )
+
+The **Ending location of guided tour** is [here]( )
+
+## 🌙 🥘 **Where is the Dinner venue for Monday?**
+
+There is a dinner after the Monday guided tour. 
+
+The Dinner venue is .
+
+The starting time is 7 PM 29th/Sep.
+The **exact location of Restaurante Contrapunto Les Arts** is [here]( https://g.page/ContrapuntoLesArts?share) -->
+
+---
+
+<p>&nbsp;</p>
+
+# Special Events on Thursday
+
+## 🌙 🥘 **Where is the Dinner venue for Thursday?**
+
+The Dinner venue is Restaurante Contrapunto Les Arts.
+
+The starting time is 7 PM 29th/Sep.
+The **exact location of Restaurante Contrapunto Les Arts** is [here]( https://g.page/ContrapuntoLesArts?share)
+
+
+<p>&nbsp;</p>
+
+---
 ---
 ## ✈️ To get to Valencia 
 You can travel to Valencia via flights directly to Valencia.
 You can also travel to neighboring cities such as Madrid, Barcelona, and Alicante then travel to Valencia via train. 
 
+<p>&nbsp;</p>
 
 ---
 ## 🏠 Accommodation suggestions
@@ -34,6 +96,7 @@ Places recommended:
 
 Valencia [old town](https://goo.gl/maps/Mht3gxMKQfxYHWEt8) near metro stop Colón (tourist area, 25 minutes away on bus)
 
+<p>&nbsp;</p>
 
 ---
 ## 💶 Spending and currency 
@@ -41,16 +104,21 @@ The currency is the euro.
 It’s **recommended to have cash** with you.
 In some rare cases, you need it to buy bus tickets or tram tickets from the broken cash-only ticket machine. In most cases, card is enough.
 
+<p>&nbsp;</p>
 
 ---
 ## 🏥 Medical Attention 
 In the event of an emergency, call 112.
 For medical attention, have your EU health card ready or private health insurance. 
 
+<p>&nbsp;</p>
+
 ---
 ## Public transportation 
 
 Valencia is a city with a wide range of public transportation options and coverage. 
+
+<p>&nbsp;</p>
 
 ---
 
@@ -70,6 +138,8 @@ The 10 trips have long-term validation.
 
 About **SUMA-10** [here]( https://www.metrovalencia.es/en/communications/what-is-suma/)
 
+<p>&nbsp;</p>
+
 ---
 
 ## 🏙️ You are in the city centre.
@@ -79,6 +149,8 @@ SUMA-10 ticket can be shared by multiple people, scan ticket twice means you pai
 This ticket is not valid from and to the airport. 
 You can get this ticket from metro and tram stations. 
 
+<p>&nbsp;</p>
+
 ---
 
 ## Taking public transportations
@@ -87,6 +159,8 @@ If you have SUMA-10, you can use it on these three transportation methods.
 #### 🚇 Taking metro. 
 Metro has a ticket gate, scan in once to get in and scan out to get out.  
 https://www.metrovalencia.es/en/
+
+<p>&nbsp;</p>
 
 ---
 
@@ -100,6 +174,8 @@ The **exact location of Summer shool venue** is [here](https://g.page/UPVCFP?sha
 
 [Metro info](https://www.metrovalencia.es/en/)
 
+<p>&nbsp;</p>
+
 ---
 
 #### 🚌 Taking bus 
@@ -109,6 +185,8 @@ You can also purchase **bus ticket on board with cash only**(max €10 banknote 
 Bank card payment is not accepted on the bus. Leave the bus from the second or third door. 
 
 [Bus info](https://www.emtvalencia.es/ciudadano/index.php)
+
+<p>&nbsp;</p>
 
 ---
 
@@ -120,6 +198,8 @@ You can rent out bike sharing services supported by local **government**.
 A weekly ticket is €13.3. 
 You can book the bike using the Valenbisi application. 
 
+<p>&nbsp;</p>
+
 ---
 
 
@@ -128,17 +208,7 @@ You can book the bike using the Valenbisi application.
 You can book taxis using app [FreeNow](https://www.free-now.com/es/)
 
 
----
-## 🏫 **Where is the summer school venue?**
-
-The venue is in the middle of the UPV campus. The building is called **CFP** building. 
-
-The **exact location of CFP** is [here](https://g.page/UPVCFP?share)
-
-The **room is  2.9 & 2.10** on the second floor of CFP building. 
-
-The closest tram stop is [**Tarongers-Ernest Lluch**](https://goo.gl/maps/YhdDfnmoFLoW9QmB8)
-
+<p>&nbsp;</p>
 
 ---
 ## ✨ 🥘 Regional Specialty  
@@ -148,6 +218,7 @@ The closest tram stop is [**Tarongers-Ernest Lluch**](https://goo.gl/maps/YhdDfn
 
 [Jamon](https://en.wikipedia.org/wiki/Jam%C3%B3n) aged pork meat.
 
+<p>&nbsp;</p>
 
 ---
 ## 🥘 Food and restaurants 
@@ -158,6 +229,7 @@ I gathered a **list of restaurants** that I have vetted and recommended by other
 
 Tipping is not mandatory. 
 Generally around 2-10% of the bill. 
+<p>&nbsp;</p>
 
 ---
 
@@ -171,6 +243,7 @@ Also: [**supermercado**](https://www.elcorteingles.es/supermarket/)
 
 Open at weekend: **Carrefour express**,  **Suma**
 
+<p>&nbsp;</p>
 
 ---
 ## 🏝️ Places to Visit in Valencia
@@ -182,6 +255,8 @@ You can also visit the tourist office for more information.[Google Maps](https:/
 - Different zones of Valencia [HERE](https://www.visitvalencia.com/en/what-to-see-valencia/neighbourhoods-and-areas-valencia)
 
 - Top attractions [HERE](https://www.visitvalencia.com/en/what-to-see-valencia/top-valencia-attractions)
+
+<p>&nbsp;</p>
 
 ---
 
