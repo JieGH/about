@@ -37,7 +37,7 @@ The **exact location of Cafeteria la Vella** is [here]( https://goo.gl/maps/fL4Z
 <p>&nbsp;</p>
 
 # Special Events on Monday 
-<!-- ## 🌙 🏙 **Where is the Guided tour for Monday?**
+<!-- ### 🌙 🏙 **Where is the Guided tour for Monday?**
 
 The starting time is 7:30 PM 26th/Sep.
 
@@ -45,7 +45,7 @@ The **Starting location of guided tour** is [here]( )
 
 The **Ending location of guided tour** is [here]( )
 
-## 🌙 🥘 **Where is the Dinner venue for Monday?**
+### 🌙 🥘 **Where is the Dinner venue for Monday?**
 
 There is a dinner after the Monday guided tour. 
 
@@ -60,7 +60,7 @@ The **exact location of Restaurante Contrapunto Les Arts** is [here]( https://g.
 
 # Special Events on Thursday
 
-## 🌙 🥘 **Where is the Dinner venue for Thursday?**
+### 🌙 🥘 **Where is the Dinner venue for Thursday?**
 
 The Dinner venue is Restaurante Contrapunto Les Arts.
 
