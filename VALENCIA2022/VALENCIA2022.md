@@ -25,7 +25,7 @@ The closest tram stop is [**Tarongers-Ernest Lluch**](https://goo.gl/maps/YhdDfn
 
 
 
-## 🌞 🥘 **Where is the lunch venue for everyday?**
+## 🌞 🥘 **Lunch venue for everyday **
 
 The lunch venue is Cafeteria la Vella.
 
@@ -36,31 +36,31 @@ The **exact location of Cafeteria la Vella** is [here]( https://goo.gl/maps/fL4Z
 
 <p>&nbsp;</p>
 
-# Special Events on Monday 
-<!-- ### 🌙 🏙 **Where is the Guided tour for Monday?**
+# Additional Events on Monday 
+### 🌙 🏙 **Guided tour on Monday**
 
 The starting time is 7:30 PM 26th/Sep.
 
-The **Starting location of guided tour** is [here]( )
+The **Starting location of guided tour** is [Virgin Square
+](https://goo.gl/maps/QUkv77zGmaNovQSn7)
 
-The **Ending location of guided tour** is [here]( )
+<!-- The **Ending location of guided tour** is [here]( ) -->
 
-### 🌙 🥘 **Where is the Dinner venue for Monday?**
+### 🌙 🥘 **Dinner venue on Monday **
 
 There is a dinner after the Monday guided tour. 
 
-The Dinner venue is .
+<!-- The Dinner venue is . -->
 
-The starting time is 7 PM 29th/Sep.
-The **exact location of Restaurante Contrapunto Les Arts** is [here]( https://g.page/ContrapuntoLesArts?share) -->
+
 
 ---
 
 <p>&nbsp;</p>
 
-# Special Events on Thursday
+# Additional Events on Thursday
 
-### 🌙 🥘 **Where is the Dinner venue for Thursday?**
+### 🌙 🥘 **Dinner venue on Thursday**
 
 The Dinner venue is Restaurante Contrapunto Les Arts.
 
