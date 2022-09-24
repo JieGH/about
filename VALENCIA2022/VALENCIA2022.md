@@ -3,7 +3,7 @@ Need help?
 Contact Jie Lei 
 
 
-**Travel tips for APROPOS summer school in Valencia**
+**APROPOS summer school in Valencia**
 ---
 
 
