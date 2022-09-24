@@ -25,7 +25,7 @@ The closest tram stop is [**Tarongers-Ernest Lluch**](https://goo.gl/maps/YhdDfn
 
 
 
-## 🌞 🥘 **Lunch venue for everyday **
+## 🌞 🥘 **Lunch venue for everyday**
 
 The lunch venue is Cafeteria la Vella.
 
@@ -46,7 +46,7 @@ The **Starting location of guided tour** is [Virgin Square
 
 <!-- The **Ending location of guided tour** is [here]( ) -->
 
-### 🌙 🥘 **Dinner venue on Monday **
+### 🌙 🥘 **Dinner venue on Monday**
 
 There is a dinner after the Monday guided tour. 
 
@@ -70,7 +70,7 @@ The **exact location of Restaurante Contrapunto Les Arts** is [here]( https://g.
 
 <p>&nbsp;</p>
 
----
+<!-- ---
 ---
 ## ✈️ To get to Valencia 
 You can travel to Valencia via flights directly to Valencia.
@@ -94,7 +94,7 @@ Places recommended:
 
  [Av. del Puerto](https://goo.gl/maps/jXwUzEeAtsiH1Sj47) (close to sea, park, and transportation, 25 minutes away on tram), 
 
-Valencia [old town](https://goo.gl/maps/Mht3gxMKQfxYHWEt8) near metro stop Colón (tourist area, 25 minutes away on bus)
+Valencia [old town](https://goo.gl/maps/Mht3gxMKQfxYHWEt8) near metro stop Colón (tourist area, 25 minutes away on bus) -->
 
 <p>&nbsp;</p>
 
