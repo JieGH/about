@@ -65,7 +65,7 @@ The Dinner venue is BAR X by Ricard Camarena at [here](https://goo.gl/maps/R4ZPZ
 
 The Dinner venue is Restaurante Contrapunto Les Arts.
 
-The starting time is 7 PM 29th/Sep.
+The starting time is 9 PM 29th/Sep.
 The **exact location of Restaurante Contrapunto Les Arts** is [here]( https://g.page/ContrapuntoLesArts?share)
 
 
