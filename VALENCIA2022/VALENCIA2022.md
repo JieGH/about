@@ -36,7 +36,7 @@ The **exact location of Cafeteria la Vella** is [here]( https://goo.gl/maps/fL4Z
 
 <p>&nbsp;</p>
 
-# Additional Events on Monday 
+<!-- # Additional Events on Monday 
 ### 🌙 🏙 **Guided tour on Monday**
 
 The starting time is 7:30 PM 26th/Sep.
@@ -51,7 +51,7 @@ The **Starting location of guided tour** is [Virgin Square
 There is a dinner after the Monday guided tour. 
 
 The Dinner venue is BAR X by Ricard Camarena at [here](https://goo.gl/maps/R4ZPZWuLjv1Yetxq9) 9:30 PM.
-
+ -->
 
 
 
