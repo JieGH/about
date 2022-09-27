@@ -46,12 +46,12 @@ The **Starting location of guided tour** is [Virgin Square
 
 <!-- The **Ending location of guided tour** is [here]( ) -->
 
-### 🌙 🥘 **Dinner venue on Monday**
+<!-- ### 🌙 🥘 **Dinner venue on Monday**
 
 There is a dinner after the Monday guided tour. 
 
 The Dinner venue is BAR X by Ricard Camarena at [here](https://goo.gl/maps/R4ZPZWuLjv1Yetxq9) 9:30 PM.
- -->
+ --> 
 
 
 
