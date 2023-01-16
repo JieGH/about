@@ -2,10 +2,12 @@ Marie Skłodowska-Curie Actions Researcher
 
 SW/HW/AI engineer.
 FPGA, Embedded System, RF
- 
-[❇️ ORCiD](https://orcid.org/0000-0002-9998-9503){:target="_blank"} 
+
+[❇️ Linkedin](https://www.linkedin.com/in/jie-l-142889139/){:target="_blank"} 
+  |
+[🎓 ORCiD](https://orcid.org/0000-0002-9998-9503){:target="_blank"} 
   |   [🎓 Google Scholar](https://scholar.google.com/citations?user=g0nZZiMAAAAJ&hl=en&oi=ao){:target="_blank"} 
-| [📽 Youtube](https://www.youtube.com/channel/UCbG3LTzpZPVncPePOpqxW9w){:target="_blank"}    |   [🐧 Twitter](https://twitter.com/That_JieLei){:target="_blank"}
+ |   [🐧 Twitter](https://twitter.com/That_JieLei){:target="_blank"}
 
 JLEI@DISCA.UPV.ES  | Jie.Lei.contact@gmail.com 
 
