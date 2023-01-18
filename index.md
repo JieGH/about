@@ -1,7 +1,7 @@
 Marie Skłodowska-Curie Actions Researcher, [APROPOS Project](https://projects.tuni.fi/apropos/){:target="_blank"} 
 
 SW/HW/AI engineer.
-FPGA, Embedded System, RF
+FPGA, SIMD accelerator, RF
 
 [❇️ Linkedin](https://www.linkedin.com/in/jie-l-142889139/){:target="_blank"} 
   |
