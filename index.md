@@ -16,8 +16,11 @@ JLEI@DISCA.UPV.ES  | Jie.Lei.contact@gmail.com
 
 #### **Publications and Presentations**
 
-- 01/2023 [HiPEAC 2023 Presentation: Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](https://www.hipeac.net/2023/toulouse/#/program/sessions/8045/)
+- 01/2023 [Presentation at HiPEAC 2023: Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](https://www.hipeac.net/2023/toulouse/#/program/sessions/8045/)
 <br />  *Jie Lei, José Flich and Enrique S. Quintana-Ortí, HiPEAC 2023, Toulouse France. WAPCO: Workshop on Approximate Computing.*
+
+- 07/2022 [Poster at HiPEAC ACACES 2022: Efficient Matrix Multiplications on RISC-V MCUs](https://www.crissmath.com/assets/pdf/poster.pdf)
+<br />  *Poster: Cristian Ramírez, Jie Lei, HiPEAC 18th International Summer School on Advanced Computer Architecture and Compilation for High-performance Embedded Systems  2022, Fiuggi Itally.*
 
 
 - 03/2022 [Paper: Logic-based intelligence for batteryless sensors](https://dl.acm.org/doi/abs/10.1145/3508396.3512870)
