@@ -1,4 +1,4 @@
-Marie Skłodowska-Curie Actions Researcher, [❇️ APROPOS Project](https://projects.tuni.fi/apropos/){:target="_blank"} 
+Marie Skłodowska-Curie Actions Researcher, [APROPOS Project](https://projects.tuni.fi/apropos/){:target="_blank"} 
 
 SW/HW/AI engineer.
 FPGA, Embedded System, RF
