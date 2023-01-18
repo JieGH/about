@@ -14,7 +14,10 @@ JLEI@DISCA.UPV.ES  | Jie.Lei.contact@gmail.com
 
 ---
 
-#### **Papers**
+#### **Publications and Presentations**
+
+- 01/2023 [HiPEAC 2023 Presentation: Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](https://www.hipeac.net/2023/toulouse/#/program/sessions/8045/)
+<br />  *Jie Lei, José Flich and Enrique S. Quintana-Ortí, HiPEAC 2023, Toulouse France. WAPCO: Workshop on Approximate Computing.*
 
 
 - 03/2022 [Paper: Logic-based intelligence for batteryless sensors](https://dl.acm.org/doi/abs/10.1145/3508396.3512870)
