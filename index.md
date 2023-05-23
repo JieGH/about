@@ -16,6 +16,10 @@ JLEI@DISCA.UPV.ES  | Jie.Lei.contact@gmail.com
 
 #### **Publications and Presentations**
 
+- 02/2023 [Paper: Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](H32023/H3_PAGE.md)
+<br />  *Jie Lei, Héctor Martínez, José Flich, Enrique S. Quintana-Ortí*
+
+
 - 02/2023 [Paper: Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](https://arxiv.org/abs/2302.07594)
 <br />  *Jie Lei, José Flich and Enrique S. Quintana-Ortí, arXiv preprint arXiv:2302.07594*
 
