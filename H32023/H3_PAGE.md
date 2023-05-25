@@ -13,7 +13,7 @@ Jie Lei, Héctor Martínez, José Flich, Enrique S. Quintana-Ortí
 
 - [📜 Paper ](https://github.com/JieGH/about/raw/d60e16e2edb045a473c70a8203b3ce8c6ffb8bfd/H32023/2023_H3_Convolution_on_Versal.pdf){:target="_blank"}
 
-- [📽 Presentation](???){:target="_blank"}
+- [📽 Presentation](https://github.com/JieGH/about/raw/gh-pages/H32023/keynote.pdf){:target="_blank"}
 
 
 
