@@ -16,12 +16,13 @@ JLEI@DISCA.UPV.ES  | Jie.Lei.contact@gmail.com
 
 #### **Publications and Presentations**
 
-- 05/2023 [Paper: Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](H32023/H3_PAGE.md)
-<br />  *Jie Lei, Héctor Martínez, José Flich, Enrique S. Quintana-Ortí*
+- 05/2023 [GEMM-Like Convolution for Deep Learning Inference on the Xilinx Versal](H32023/H3_PAGE.md)
+<br />  *Jie Lei, Héctor Martínez, José Flich, Enrique S. Quintana-Ortí
+2023 WORKSHOP: HPC ON HETEROGENEOUS HARDWARE (H3) at ISC2023*
 
 
-- 02/2023 [Paper: Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](https://arxiv.org/abs/2302.07594)
-<br />  *Jie Lei, José Flich and Enrique S. Quintana-Ortí, arXiv preprint arXiv:2302.07594*
+- 02/2023 [Paper: Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](https://zenodo.org/record/8009676)
+<br />  *Lei, Jie, Flich, José, & Quintana-Ort, Enrique S. (2023, June 1). Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal. 2023 31st Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP). https://doi.org/10.1109/PDP59025.2023.00043*
 
 - 01/2023 [Presentation at HiPEAC 2023: Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](https://www.hipeac.net/2023/toulouse/#/program/sessions/8045/)
 <br />  *Jie Lei, José Flich and Enrique S. Quintana-Ortí, HiPEAC 2023, Toulouse France. WAPCO: Workshop on Approximate Computing.*
