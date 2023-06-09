@@ -18,7 +18,7 @@ JLEI@DISCA.UPV.ES  | Jie.Lei.contact@gmail.com
 
 - 05/2023 [GEMM-Like Convolution for Deep Learning Inference on the Xilinx Versal](H32023/H3_PAGE.md)
 <br />  *Jie Lei, Héctor Martínez, José Flich, Enrique S. Quintana-Ortí
-2023 WORKSHOP: HPC ON HETEROGENEOUS HARDWARE (H3) at ISC2023*
+2023 WORKSHOP: HPC ON HETEROGENEOUS HARDWARE (H3) at ISC2023 *
 
 
 - 02/2023 [Paper: Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](https://zenodo.org/record/8009676)
