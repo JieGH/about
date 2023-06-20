@@ -16,6 +16,10 @@ JLEI@DISCA.UPV.ES  | Jie.Lei.contact@gmail.com
 
 #### **Publications and Presentations**
 
+
+- 06/2023 [Towards Benchmarking GNSS Algorithms on FPGA using SyDR](https://ieeexplore.ieee.org/abstract/document/10148916)
+<br />  A. Grenier et al., "Towards Benchmarking GNSS Algorithms on FPGA using SyDR," 2023 International Conference on Localization and GNSS (ICL-GNSS), Castellón, Spain, 2023, pp. 1-7, doi: 10.1109/ICL-GNSS57829.2023.10148916.
+
 - 05/2023 [GEMM-Like Convolution for Deep Learning Inference on the Xilinx Versal](H32023/H3_PAGE.md)
 <br />  *Jie Lei, Héctor Martínez, José Flich, Enrique S. Quintana-Ortí
 2023 WORKSHOP: HPC ON HETEROGENEOUS HARDWARE (H3) at ISC2023 *
