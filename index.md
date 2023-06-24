@@ -7,6 +7,7 @@ FPGA, SIMD accelerator, RF
   |
 [🎓 ORCiD](https://orcid.org/0000-0002-9998-9503){:target="_blank"} 
   |   [🎓 Google Scholar](https://scholar.google.com/citations?user=g0nZZiMAAAAJ&hl=en&oi=ao){:target="_blank"} 
+  |   [🎓 ResearchGate](https://www.researchgate.net/profile/Jie-Lei-2){:target="_blank"}
  |   [🐧 Twitter](https://twitter.com/That_JieLei){:target="_blank"}
 
 JLEI@DISCA.UPV.ES  | Jie.Lei.contact@gmail.com 
