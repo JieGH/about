@@ -26,7 +26,7 @@ JLEI@DISCA.UPV.ES  | Jie.Lei.contact@gmail.com
 2023 WORKSHOP: HPC ON HETEROGENEOUS HARDWARE (H3) at ISC2023 *
 
 
-- 02/2023 [Paper: Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](H32023/PDP/PDP_PAGE.md)
+- 02/2023 [Paper: Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](PDP/PDP_PAGE.md)
 <br />  *Lei, Jie, Flich, José, & Quintana-Ort, Enrique S. (2023, June 1). Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal. 2023 31st Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP). https://doi.org/10.1109/PDP59025.2023.00043*
 
 - 01/2023 [Presentation at HiPEAC 2023: Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](https://www.hipeac.net/2023/toulouse/#/program/sessions/8045/)
