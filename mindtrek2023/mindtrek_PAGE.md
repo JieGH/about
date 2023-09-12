@@ -14,7 +14,7 @@ Hi there 👋, my name is Jie Lei the Early Stage Researcher of the [APROPOS](ht
 
 ---
 
-You can learn more about my work in the following content.
+##### To earn more about this work:
 
 [GEMM-Like Convolution for Deep Learning Inference on the Xilinx Versal](https://zenodo.org/record/8309224){:target="_blank"}
 
@@ -23,6 +23,7 @@ You can learn more about my work in the following content.
 
 [Poster](https://github.com/JieGH/about/raw/d60e16e2edb045a473c70a8203b3ce8c6ffb8bfd/H32023/2023_H3_Convolution_on_Versal.pdf){:target="_blank"}
 
+---
 
 ##### To learn more about this platform:
 
@@ -30,5 +31,5 @@ You can learn more about my work in the following content.
 
 [AMD AI Engine](https://docs.xilinx.com/v/u/en-US/wp506-ai-engine)
 
-AMD, AI Engine, Xilinx, Versal are the trade mark of AMD.
+AMD, AI Engine, Xilinx, Versal are trade marks of the AMD.
 
