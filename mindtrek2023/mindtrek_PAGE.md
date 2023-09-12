@@ -1,6 +1,7 @@
 JLEI@DISCA.UPV.ES | Jie.Lei.contact@gmail.com 
  
  [🎓 Google Scholar](https://scholar.google.com/citations?user=g0nZZiMAAAAJ&hl=en&oi=ao){:target="_blank"} 
+ [💼 Linkedin](https://www.linkedin.com/in/jie-l-142889139/){:target="_blank"} 
 | [📽 Youtube](https://www.youtube.com/channel/UCbG3LTzpZPVncPePOpqxW9w){:target="_blank"}    |   [🐧 Twitter](https://twitter.com/That_JieLei){:target="_blank"}
 
 ---
@@ -9,11 +10,23 @@ JLEI@DISCA.UPV.ES | Jie.Lei.contact@gmail.com
 
 #### **MINDTREK 2023**
 
-### Hi there 👋, my name is Jie Lei the Early Stage Researcher of the [APROPOS](https://www.apropos-itn.eu/) project. I am a PhD student at the [Universitat Politècnica de València](https://www.upv.es/), Spain. I am working on accelerating neural network on AMD Xilinx Versal. I focus on utilizing SIMD processors, FPGA, along with custom memory hierarchy to accelerate the matrix multiplication. You can learn more about my work in the following content.
+### Hi there 👋, my name is Jie Lei the Early Stage Researcher of the [APROPOS](https://www.apropos-itn.eu/){:target="_blank"} project, based in the [Universitat Politècnica de València](https://www.upv.es/){:target="_blank"}, Spain. I am working on compute acceleration on AMD Xilinx Versal, utilizing SIMD processors, FPGA, along with custom memory hierarchy to accelerate the matrix multiplication. 
 
-- [📜 Poster ](https://github.com/JieGH/about/raw/d60e16e2edb045a473c70a8203b3ce8c6ffb8bfd/H32023/2023_H3_Convolution_on_Versal.pdf){:target="_blank"}
+You can learn more about my work in the following content.
 
-- [📽 Poster video]( ){:target="_blank"}
+[GEMM-Like Convolution for Deep Learning Inference on the Xilinx Versal](https://zenodo.org/record/8309224){:target="_blank"}
+
+[Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](https://zenodo.org/record/8009676){:target="_blank"}
 
 
+[Poster](https://github.com/JieGH/about/raw/d60e16e2edb045a473c70a8203b3ce8c6ffb8bfd/H32023/2023_H3_Convolution_on_Versal.pdf){:target="_blank"}
+
+
+To learn more about this platform:
+
+[AMD Xilinx Versal](https://docs.xilinx.com/v/u/en-US/wp505-versal-acap)
+
+[AMD AI Engine](https://docs.xilinx.com/v/u/en-US/wp506-ai-engine)
+
+AMD, AI Engine, Xilinx, Versal are the trade mark of AMD.
 
