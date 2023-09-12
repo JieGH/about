@@ -10,9 +10,11 @@ JLEI@DISCA.UPV.ES | Jie.Lei.contact@gmail.com
 
 ##### **MINDTREK 2023**
 
-##### Hi there 👋, my name is Jie Lei the Early Stage Researcher of the [APROPOS](https://www.apropos-itn.eu/){:target="_blank"} project, based in the [Universitat Politècnica de València](https://www.upv.es/){:target="_blank"}, Spain. I am working on compute acceleration on AMD Xilinx Versal, utilizing SIMD processors, FPGA, along with custom memory hierarchy to accelerate the matrix multiplication. 
+Hi there 👋, my name is Jie Lei the Early Stage Researcher of the [APROPOS](https://www.apropos-itn.eu/){:target="_blank"} project, based in the [Universitat Politècnica de València](https://www.upv.es/){:target="_blank"}, Spain. I am working on compute acceleration on AMD Xilinx Versal, utilizing SIMD processors, FPGA, along with custom memory hierarchy to accelerate the matrix multiplication. 
 
-##### You can learn more about my work in the following content.
+---
+
+You can learn more about my work in the following content.
 
 [GEMM-Like Convolution for Deep Learning Inference on the Xilinx Versal](https://zenodo.org/record/8309224){:target="_blank"}
 
