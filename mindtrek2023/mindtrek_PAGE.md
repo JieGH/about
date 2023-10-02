@@ -20,8 +20,13 @@ Hi there 👋, my name is Jie Lei the Early Stage Researcher of the [APROPOS](ht
 
 [Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](https://zenodo.org/record/8009676){:target="_blank"}
 
-
 [Poster](mindtrek2023/Mindtrek2023_poster_DC.pdf){:target="_blank"}
+
+---
+
+#### Acknowledgement
+
+This work is supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 956399 (APROPOS).
 
 ---
 
