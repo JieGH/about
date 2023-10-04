@@ -14,7 +14,7 @@ Hi there 👋, my name is Jie Lei the Early Stage Researcher of the [APROPOS](ht
 
 ---
 
-##### To earn more about this work:
+##### To Learn more about this work:
 
 [GEMM-Like Convolution for Deep Learning Inference on the Xilinx Versal](https://zenodo.org/record/8309224){:target="_blank"}
 
