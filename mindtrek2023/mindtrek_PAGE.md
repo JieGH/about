@@ -14,13 +14,37 @@ Hi there 👋, my name is Jie Lei the Early Stage Researcher of the [APROPOS](ht
 
 ---
 
-##### To Learn more about this work:
+#### Poster
+
+[Poster](Mindtrek2023_poster_DC.pdf){:target="_blank"}
+
+
+#### Poster breakdown
+
+<img src="mindtrek_poster_breakDown_Page_1.png
+" alt="Award" width="400" height="300">
+<img src="mindtrek_poster_breakDown_Page_2.png
+" alt="Award" width="400" height="300">
+<img src="mindtrek_poster_breakDown_Page_3.png
+" alt="Award" width="400" height="300">
+<img src="mindtrek_poster_breakDown_Page_4.png
+" alt="Award" width="400" height="300">
+<img src="mindtrek_poster_breakDown_Page_5.png
+" alt="Award" width="400" height="300">
+
+
+#### Award
+
+Best Doctoral Consortium Poster Award
+
+<img src="Award_mindtrek_bestPapser.jpg" alt="Award" width="400" height="600">
+
+---
+#### To Learn more about this work:
 
 [GEMM-Like Convolution for Deep Learning Inference on the Xilinx Versal](https://zenodo.org/record/8309224){:target="_blank"}
 
 [Toward Matrix Multiplication for Deep Learning Inference on the Xilinx Versal](https://zenodo.org/record/8009676){:target="_blank"}
-
-[Poster](Mindtrek2023_poster_DC.pdf){:target="_blank"}
 
 ---
 

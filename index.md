@@ -17,6 +17,7 @@ JLEI@DISCA.UPV.ES  | Jie.Lei.contact@gmail.com
 
 #### **Publications and Presentations**
 
+- 10/2023 [👑 Best Doctoral consortium Poster at ACADEMIC MINDTREK 2023, Tampere, Finland](mindtrek2023/mindtrek_PAGE.md)
 
 - 06/2023 [Towards Benchmarking GNSS Algorithms on FPGA using SyDR](https://ieeexplore.ieee.org/abstract/document/10148916)
 <br />  A. Grenier et al., "Towards Benchmarking GNSS Algorithms on FPGA using SyDR," 2023 International Conference on Localization and GNSS (ICL-GNSS), Castellón, Spain, 2023, pp. 1-7, doi: 10.1109/ICL-GNSS57829.2023.10148916.
