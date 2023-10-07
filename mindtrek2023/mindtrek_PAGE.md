@@ -22,15 +22,15 @@ Hi there 👋, my name is Jie Lei the Early Stage Researcher of the [APROPOS](ht
 #### Poster breakdown
 
 <img src="mindtrek_poster_breakDown_Page_1.png
-" alt="Award" width="800" height="600">
+" alt="Award" width="600" height="450">
 <img src="mindtrek_poster_breakDown_Page_2.png
-" alt="Award" width="800" height="600">
+" alt="Award" width="600" height="450">
 <img src="mindtrek_poster_breakDown_Page_3.png
-" alt="Award" width="800" height="600">
+" alt="Award" width="600" height="450">
 <img src="mindtrek_poster_breakDown_Page_4.png
-" alt="Award" width="800" height="600">
+" alt="Award" width="600" height="450">
 <img src="mindtrek_poster_breakDown_Page_5.png
-" alt="Award" width="800" height="600">
+" alt="Award" width="600" height="450">
 
 
 #### Award
